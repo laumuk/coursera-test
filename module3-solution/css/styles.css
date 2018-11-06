@@ -1,0 +1,35 @@
+#nav-list {
+	background-color: linen;
+	border: 1px black solid;
+}
+
+#nav-list li {
+	border-bottom: 1px black solid;
+}
+
+#nav-list li.last {
+	border-bottom: 0 black solid;
+}
+
+.nav-link {
+	color: black;
+}
+
+#nav-menu-items {
+	max-width: 100%;
+	text-align: center;
+}
+
+.menu-title {
+	margin-top: 10px;
+}
+
+#main-content {
+	max-width: 97%;
+	height: 1000px;
+	background-color: #94EA9F;
+	margin: 40px auto 0;
+}
+
+
+
